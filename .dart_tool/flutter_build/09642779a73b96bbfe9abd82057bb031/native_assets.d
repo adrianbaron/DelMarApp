@@ -1,0 +1,1 @@
+ C:\\Users\\Ideapad\ User\\Desktop\\app_delivery\\.dart_tool\\flutter_build\\09642779a73b96bbfe9abd82057bb031\\native_assets.yaml: 

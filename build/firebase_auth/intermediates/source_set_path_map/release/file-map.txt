@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.3-0 C:\Users\PULPO\.gradle\caches\transforms-3\18698fe9c6cdd8c311d14f3b33e92e19\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-1 C:\Users\PULPO\.gradle\caches\transforms-3\1f2e5d32dbe7396529260c34cd79e6e3\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-2 C:\Users\PULPO\.gradle\caches\transforms-3\2a1953770f91e0bd3f4b13bd2e3fe6a0\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-3 C:\Users\PULPO\.gradle\caches\transforms-3\3b4e0ba2ae837b48e006143d7c0f15da\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-4 C:\Users\PULPO\.gradle\caches\transforms-3\a7e029b8b4e5cf471bf3f0c37f415618\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.3.0-5 C:\Users\PULPO\.gradle\caches\transforms-3\b50ff5ce61fe93aaba716748bfbb2ab2\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 C:\Users\PULPO\.gradle\caches\transforms-3\b703a433d31dcf9bef91a5ad3cee74d4\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-7 C:\Users\PULPO\.gradle\caches\transforms-3\ebf730e5d187006d9b50139d6b755045\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\PULPO\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.19.6\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 C:\Users\PULPO\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.19.6\android\src\release\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 C:\Users\PULPO\Desktop\flutter0\Test\app_delivery\app_delivery\build\firebase_core\intermediates\packaged_res\release
